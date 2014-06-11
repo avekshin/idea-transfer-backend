@@ -6,5 +6,5 @@
           class="ua.avekshin.web.optimization.ideatransfer.backend.method.simulation.SimulationDataImpl"/>
 
     <bean id="startPointCalculator"
-          class="ua.avekshin.web.optimization.ideatransfer.backend.method.StartPointCalculatorImpl"/>
+          class="ua.avekshin.web.optimization.ideatransfer.backend.method.startpoint.StartPointCalculatorImpl"/>
 </beans>

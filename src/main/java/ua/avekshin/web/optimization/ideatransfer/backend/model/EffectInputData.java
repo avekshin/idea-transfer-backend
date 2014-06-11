@@ -1,4 +1,4 @@
-package ua.avekshin.web.optimization.ideatransfer.backend.method;
+package ua.avekshin.web.optimization.ideatransfer.backend.model;
 
 import com.google.common.collect.Lists;
 

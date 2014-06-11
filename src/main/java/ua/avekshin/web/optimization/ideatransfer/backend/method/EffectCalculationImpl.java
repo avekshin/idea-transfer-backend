@@ -3,6 +3,9 @@ package ua.avekshin.web.optimization.ideatransfer.backend.method;
 import com.google.common.collect.Lists;
 import org.springframework.beans.factory.annotation.Autowired;
 import ua.avekshin.web.optimization.ideatransfer.backend.method.simulation.SimulationData;
+import ua.avekshin.web.optimization.ideatransfer.backend.method.startpoint.StartPointCalculator;
+import ua.avekshin.web.optimization.ideatransfer.backend.method.util.VectorUtil;
+import ua.avekshin.web.optimization.ideatransfer.backend.model.EffectInputData;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package ua.avekshin.web.optimization.ideatransfer.backend.method;
+package ua.avekshin.web.optimization.ideatransfer.backend.method.util;
 
 import java.util.List;
 

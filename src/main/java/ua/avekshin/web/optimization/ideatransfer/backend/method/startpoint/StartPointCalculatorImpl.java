@@ -1,4 +1,6 @@
-package ua.avekshin.web.optimization.ideatransfer.backend.method;
+package ua.avekshin.web.optimization.ideatransfer.backend.method.startpoint;
+
+import ua.avekshin.web.optimization.ideatransfer.backend.model.EffectInputData;
 
 /**
  * Created with IntelliJ IDEA.
